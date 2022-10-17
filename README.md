@@ -1,3 +1,3 @@
 # Demo 
 
-Some description.
+Just trying to understand Git!
